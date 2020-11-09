@@ -3,7 +3,7 @@ This repo contains a few peculiar things I've learned about pandas that have mad
 
 ## What's in this repo?
 
-1. pandas ins column-major, which is why row-based operations are slow
+1. pandas is column-major, which is why row-based operations are slow
 2. `SettingWithCopyWarning`, or why we can't have nice things
 3. Indexing and slicing
 4. Accessors
